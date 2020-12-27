@@ -6,7 +6,6 @@
 * @Title: To play a Cross Game or Tic-Tac-Toe Game. Player 1 is Computer and Player 2 is the user.Player 1 take Random Cell i.e column or row. 
 
 '''
-
 current_player = "X"
 winner=None
 game=True
@@ -75,6 +74,7 @@ def win_check():
         game=False
         return board[3]
     return False
+
 def check_draw():
     global game
     if " " not in board:
@@ -103,4 +103,4 @@ def cross_game():
         turn()
         board_full()
         check_draw()
-cross_game()
+cross_game()  #play the game
