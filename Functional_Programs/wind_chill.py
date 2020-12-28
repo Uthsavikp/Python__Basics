@@ -1,8 +1,8 @@
 '''
 * @Author: Uthsavi KP
-* @Date: 2020-12-28 00:32:29
+* @Date: 2020-12-29 00:42:23
 * @Last Modified by:   Uthsavi KP
-* @Last Modified time: 2020-12-28 00:32:29
+* @Last Modified time: 2020-12-29 00:42:23
 * @Title:To Calculate Wind Chill. 
 '''
 import math
