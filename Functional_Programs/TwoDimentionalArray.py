@@ -15,7 +15,7 @@ def two_dimentional_array():
         print("Enter The Numbers:") 
   
         for number in range(rows):          
-            array_two =[] 
+            array_two =[]   
             for element in range(columns):       
                 array_two.append(int(input())) 
             array_one.append(array_two) #adding the elements
