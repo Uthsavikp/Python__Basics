@@ -1,3 +1,11 @@
+'''
+* @Author: Uthsavi KP
+* @Date: 2020-12-31 1:12:47  
+* @Last Modified by:   Uthsavi KP
+* @Last Modified time: 2020-12-31 1:12:47
+* @Title : To Convert Temperature From Fahrenheit To Celsius And Viceversa
+'''
+
 def get_temperature_conversion(temperature,degree,scale):
     #To convert temperature from  °C to °F
     degree = int(temperature[:-1]) #excludes the index i.e C or F and gets only integer
