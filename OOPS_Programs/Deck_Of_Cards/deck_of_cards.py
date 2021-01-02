@@ -1,8 +1,8 @@
 '''
   @Author: Uthsavi KP
-  @Date: 2021-01-02 3:24:47
+  @Date: 2021-01-02 3:35:21
   @Last Modified by:   Uthsavi KP
-  @Last Modified time: 2021-01-02 3:24:47
+  @Last Modified time: 2021-01-02 3:35:21
   @Title: To shuffle the deck of cards and distribute 9 cards to 4 players.  
 '''
 import itertools
