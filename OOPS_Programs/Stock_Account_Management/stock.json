@@ -1,0 +1,30 @@
+{
+	"titan": [
+		{
+			"stock_name": "titan_company",
+			"number_of_shares": 5,
+			"share_price": 350
+		}
+	],
+	"cipla": [
+		{
+			"stock_name": "cipla_ltd",
+			"number_of_shares": 7,
+			"share_price": 233
+		}
+	],
+	"sbi": [
+		{
+			"stock_name": "sbi",
+			"number_of_shares": 9,
+			"share_price": 110
+		}
+	],
+	"granules": [
+		{
+			"stock_name": "granules_india_ltd",
+			"number_of_shares": 12,
+			"share_price": 150
+		}
+	]
+}
